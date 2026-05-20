@@ -33,7 +33,7 @@ Los resultados obtenidos fueron:
 
 Este es el mayor residuo absoluto que aparece en la tabla, lo que convierte a Calera de Tango en el caso más llamativo del análisis.
 
-Lo interesante es que, considerando el perfil demográfico y social de la comuna incluido en el modelo, esperábamos una estadía media bastante más cercana a la predicción —no casi 1.83 días por encima de ella. En otras palabras, incluso después de ajustar por todas las covariables comunales disponibles, Calera de Tango sigue apareciendo como un outlier relevante.
+Lo interesante es que, considerando el perfil demográfico y social de la comuna incluido en el modelo, esperábamos una estadía media bastante más cercana a la predicción y no casi 1.83 días por encima de ella. En otras palabras, incluso después de ajustar por todas las covariables comunales disponibles, Calera de Tango sigue apareciendo como un outlier relevante.
 
 Como posibles explicaciones preliminares, planteamos tres hipótesis:
 
