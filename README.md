@@ -49,11 +49,6 @@ Como posibles explicaciones preliminares, planteamos tres hipótesis:
 .
 ├── README.md
 ├── requirements.txt
-├── data/
-│   ├── CENSO
-│   ├── ENO
-│   ├── GRD
-│   └── shapefiles
 │
 ├── notebooks/
 │   ├── tarea0.ipynb
