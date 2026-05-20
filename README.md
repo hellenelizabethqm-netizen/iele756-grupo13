@@ -1,4 +1,4 @@
-# iele756-region-XXXX
+# iele756-Grupo13
 # Miembros
 1. Hellen Quiñones
 2. Gustavo Sanchez
