@@ -13,7 +13,8 @@ Para este código se utilizaron distintas bases de datos las cuáles puedes deca
 
 **ENO CHILE (Enfermedades de Notificación Obligatoria)** https://epi.minsal.cl/bases-de-datos-eno/
 
-**GRD** 
+**GRD** Obtenido a través de archivos del docente
+
 ---
 
 # Anomalía identificada
